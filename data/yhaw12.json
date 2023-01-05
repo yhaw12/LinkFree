@@ -1,0 +1,19 @@
+{
+  "name": "blankson obeng ",
+  "displayStatsPublic": true,
+  "type": "personal",
+  "bio": "Nurse and a passionate web Developer",
+  "avatar": "https://github.com/110202683.jpg",
+}
+"links": [
+    {
+      "name": "Follow me on Twitter",
+      "url": "https://twitter.com/MittechGh",
+      "icon": "FaTwitter"
+    },
+  {
+    "name": "Follow me on LinkedIn",
+    "url": "https://www.linkedin.com/in/blankson-obeng-110b14113",
+    "icon": "FaLinkedin"
+  }
+  ]
